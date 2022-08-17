@@ -1,6 +1,6 @@
 # UFO
-![webpage](file:///C:/Users/njliv/Class_Work/UFO/Module/_UFO%20Finder_.html)
-0
+
+
 JavaScript / Web Application & Visualizations
 
 ## Overview of Project
