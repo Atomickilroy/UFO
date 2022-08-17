@@ -1,7 +1,7 @@
-# UFO
+
 ![mobile](https://github.com/Atomickilroy/UFO/blob/main/Module/Images/Title.png)
 
-JavaScript / Web Application & Visualizations
+# UFO - JavaScript / Web Application & Visualizations
 
 ## Overview of Project
 
