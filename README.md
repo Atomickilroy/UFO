@@ -26,5 +26,5 @@
   Furture revisions could incoropated the last 70 years of sightings, opposed to just the one year. There could be a heat map with a feature that could plot sightings on interactive world map based on the user input. For those users that were looking for a better visual of the consentrations of sitings or those looking to take it a step further and to hunt of a UFO. For what it is though, its still a great way to display the limited data in a visually appealing way. 
 
 ![mobile](https://github.com/Atomickilroy/UFO/blob/main/Module/Images/Filter.png)
-
+***To filter table enter text into white txt box below column name and the web page will atomatically update.(if it matches data table data) To clear filer, refresh page or clear out data from txt box.***
 
